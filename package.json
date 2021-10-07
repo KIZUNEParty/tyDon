@@ -4,12 +4,12 @@
   "description": "Just a Script to calling time from Jan 1, 1970",
   "main": "./bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [
     "nodejs"
   ],
-  "author": "deth's",
+  "author": "deth",
   "license": "MIT",
   "dependencies": {
     "yargs": "^17.2.1"
