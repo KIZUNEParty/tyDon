@@ -11,10 +11,10 @@
   ],
   "author": "deth's",
   "license": "MIT",
-  "bin": {
-    "tydon": "./index.js"
-  },
   "dependencies": {
     "yargs": "^17.2.1"
+  },
+  "bin": {
+    "tydon": "./bin/index.js"
   }
 }
