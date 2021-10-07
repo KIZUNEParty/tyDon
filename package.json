@@ -1,5 +1,5 @@
 {
-  "name": "@MWMKParty/tydon",
+  "name": "@mwmkparty/tydon",
   "version": "1.0.0",
   "description": "Just a Script to calling time from Jan 1, 1970",
   "main": "./bin/index.js",
