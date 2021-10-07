@@ -1,5 +1,5 @@
 {
-  "name": "tydon",
+  "name": "@MWMKParty/tydon",
   "version": "1.0.0",
   "description": "Just a Script to calling time from Jan 1, 1970",
   "main": "./bin/index.js",
@@ -11,6 +11,13 @@
   ],
   "author": "deth",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MWMKParty/tyDon.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "dependencies": {
     "yargs": "^17.2.1"
   },
