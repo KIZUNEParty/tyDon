@@ -13,5 +13,8 @@
   "license": "MIT",
   "bin": {
     "tygon": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.2.1"
   }
 }
