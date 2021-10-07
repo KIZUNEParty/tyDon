@@ -1,4 +1,6 @@
-const yargs = require('yargs')
+#! /usr/bin/env node
+
+const yargs = require('yargs');
 
 const opt = yargs
     .usage(
@@ -10,9 +12,9 @@ const opt = yargs
         type: "string",
         demandOption: false
     })
-    .argv
+    .argv;
 
-const a = `${opt.d}`
+const a = `${opt.d}`;
 
 if( a != 'undefined') {
     console.log(a);
