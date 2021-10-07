@@ -1,5 +1,5 @@
 {
-  "name": "dygon",
+  "name": "tydon",
   "version": "1.0.0",
   "description": "Just a Script to calling time from Jan 1, 1970",
   "main": "./bin/index.js",
@@ -10,5 +10,8 @@
     "nodejs"
   ],
   "author": "deth's",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "tygon": "./bin/index.js"
+  }
 }
