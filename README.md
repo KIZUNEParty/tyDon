@@ -1,6 +1,6 @@
 # tydon
 ![npm](https://img.shields.io/npm/v/tydon?style=for-the-badge) ![NPM](https://img.shields.io/npm/l/tydon?style=for-the-badge) 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMWMKParty%2FtyDon&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMWMKParty%2FtyDon&countColor=%23263759)<br />
 Just a laziest cli script that using to call the time from Jan 1, 1970
 
 ## Installation
