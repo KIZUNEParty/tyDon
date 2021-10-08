@@ -16,7 +16,7 @@ npm i -g .
 ```
 
 ## Usage
-Type `tyDon` or `tyDon -d <Your Custom Date>` on your terminal to get your date like
+Type `tyDon` or `tyDon -d "Your Custom Date"` on your terminal to get your date like
 ```zsh
 tydon -d "August 31, 21 00:36:00"
 ```
@@ -35,11 +35,11 @@ tydon --version
 ```
 - **date (--date or -d)** - Get time from your custom date
 ```zsh
-tydon -d <Your Custom Date>
+tydon -d "Your Custom Date"
 ```
 or
 ```zsh
-tydon --date <Your Custom Date>
+tydon --date "Your Custom Date"
 ```
 
 > If you want to buy us a coffee
