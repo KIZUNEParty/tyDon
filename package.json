@@ -1,6 +1,6 @@
 {
   "name": "tydon",
-  "version": "1.0.3",
+  "version": "1.0.3.1",
   "description": "Just a laziest cli script that using to call the time from Jan 1, 1970",
   "main": "./bin/index.js",
   "scripts": {
