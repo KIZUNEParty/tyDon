@@ -20,8 +20,8 @@ Type `tyDon` or `tyDon -d <Your Custom Date>` on your terminal to get your date 
 ```zsh
 tydon -d "August 31, 21 00:36:00"
 ```
-
-> log : 1630344960000
+log :
+> 1630344960000
 
 
 ## Options
