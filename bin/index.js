@@ -17,7 +17,6 @@ const opt = yargs
 const a = `${opt.d}`;
 
 if( a != 'undefined') {
-    console.log(a);
     const moonLanding = new Date(a);
     console.log(moonLanding.getTime());
 } else {
