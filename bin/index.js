@@ -1,9 +1,13 @@
 exports.tyDon = function(date) {
+  let time
+
   if (date != undefined) {
     const moonLanding = new Date(a);
-    console.log(moonLanding.getTime());
+    time = moonLanding.getTime()
   } else {
     const moonLanding = new Date();
-    console.log(moonLanding.getTime());
+    time = moonLanding.getTime()
   }
-  }
+
+  return time
+}
