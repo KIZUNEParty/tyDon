@@ -1,6 +1,7 @@
 #! /usr/bin/env node
 
 const yargs = require('yargs');
+let ty = require('./index')
 
 const opt = yargs
     .usage(
@@ -16,10 +17,4 @@ const opt = yargs
 
 const a = `${opt.d}`;
 
-if( a != 'undefined') {
-    const moonLanding = new Date(a);
-    console.log(moonLanding.getTime());
-} else {
-    const moonLanding = new Date;
-    console.log(moonLanding.getTime());
-}
+console.log(ty.tyDon(a))
